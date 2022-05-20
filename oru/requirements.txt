@@ -2,4 +2,4 @@ pyotp
 requests
 pyppeteer
 paho-mqtt
-coned == 0.2.8
+git+https://github.com/nebriv/coned.git@opower-auth-patch
